@@ -11,10 +11,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://149.50.138.67',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Documentacion-01/',
+  baseUrl: '/caso4/',
 
   // GitHub pages deployment config.
   organizationName: 'Sebastian10Toledo',
